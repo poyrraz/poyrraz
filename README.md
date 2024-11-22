@@ -1,4 +1,4 @@
-I am a audio programmer and musician.
+I am an audio programmer and musician.
 <!--
 **poyrraz/poyrraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
