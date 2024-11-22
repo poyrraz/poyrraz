@@ -1,5 +1,3 @@
-### Hi there 👋
-Hi everyone I just created my readme file for test to join github education thing.
 I am a audio programmer and musician.
 <!--
 **poyrraz/poyrraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
